@@ -1,0 +1,21 @@
+Region,Vaccine,Year,Percentage,Description
+Eastern_and_Southern_Africa,DTP3,1993,60,diptheria_pertussis_tetanus
+Western_Europe,HEPBB,2018,9,hepatitis B
+Global,HIB3,2001,14,Haemophilus influenza
+North_America,PCV3,2008,89,pneumococcal disease
+Latin_America_and_Caribbean,MCV1,2009,94,meningococcal_disease
+Middle_East_and_North_Africa,DTP3,1989,85,diptheria_pertussis_tetanus
+Middle_East_and_North_Africa,DTP3,2010,92,diptheria_pertussis_tetanus
+Eastern_and_Southern_Africa,HIB3,1994,0,Haemophilus influenza
+Western_Europe,DTP1,2016,98,diphteria_pertussis_tetanus
+Middle_East_and_North_Africa,ROTAC,2012,13,rotavirus
+North_America,HEPB3,2016,91,hepatitis B
+Eastern_and_Southern_Africa,MCV2,2001,4,meningococcal_disease
+Eastern_and_Southern_Africa,RCV1,1983,0,rubella
+Eastern_and_Southern_Africa,MCV2,2014,15,meningococcal_disease
+North_America,MCV2,2012,90,meningococcal_disease
+Western_Europe,DTP1,1989,85,diphteria_pertussis_tetanus
+Global,ROTAC,2006,1,rotavirus
+Eastern_and_Southern_Africa,POL3,2016,80,polio
+Eastern_Europe_and_Central_Asia,BCG,1982,43,tuberculosis
+East_Asia_and_Pacific,POL3,2006,90,polio

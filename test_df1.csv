@@ -1,0 +1,13 @@
+Region,Vaccine,Year,Percentage,Description
+Eastern_Europe_and_Central_Asia,DTP3,1982,51,diptheria_pertussis_tetanus
+Western_Europe,MCV1,2016,94,meningococcal_disease
+South_Asia,RCV1,2005,1,rubella
+Western_Europe,RCV1,1982,16,rubella
+Middle_East_and_North_Africa,PCV3,2008,1,pneumococcal disease
+Western_Europe,ROTAC,2019,39,rotavirus
+Western_Europe,ROTAC,2013,4,rotavirus
+Western_Europe,MCV1,1980,31,meningococcal_disease
+Global,DTP1,2008,88,diphteria_pertussis_tetanus
+Western_Europe,DTP1,1993,94,diphteria_pertussis_tetanus
+Eastern_Europe_and_Central_Asia,RCV1,1992,1,rubella
+Latin_America_and_Caribbean,HEPBB,2012,46,hepatitis B
